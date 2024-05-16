@@ -1,8 +1,9 @@
-let azul = document.getElementById("azul")
+        let azul = document.getElementById("azul")
         let amarelo = document.getElementById("amarelo")
         let vermelho= document.getElementById("vermelho")
         let verde = document.getElementById("verde")
         let branco = document.getElementById("branco")
+        let preto = document.getElementById("preto")
 
         azul.addEventListener("click", ()=>{
             document.body.style.backgroundColor = "blue"
